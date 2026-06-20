@@ -1,0 +1,7 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+
+# Local user database/credentials
+users.dat
